@@ -1,0 +1,29 @@
+body {
+background: rgb(104, 172, 236);
+font: normal 15pt Futura;
+}
+header {
+color: white;
+text-align: center; /*Centralizar o título*/
+
+}
+section {
+background: white;
+border-radius: 10px;   /* Bordas arredondadas */
+padding: 15px; /* Espaçamento da borda */
+width: 500px; /* Largura fixa */
+margin: auto; /* Centralizar a seção */
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+
+}
+
+div {
+
+text-align: center;
+
+}
+
+footer{
+text-align: center; /* Centralizar o rodapé */
+font-style: italic;
+}
